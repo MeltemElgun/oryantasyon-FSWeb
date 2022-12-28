@@ -19,6 +19,7 @@ Bu github repository, Git ve GitHub hesaplarınızın kurulumunda size yol göst
 - [x]  Standart İş Akışı
 
 
+
 ---
 
 ## README’yi görüntüle
