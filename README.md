@@ -6,6 +6,7 @@ Bu github repository, Git ve GitHub hesaplarınızın kurulumunda size yol göst
 
 ## Adımlar
 
+..
 - [x]  README’yi görüntüleme
 - [x]  Bir GitHub hesabı oluşturma
 - [x]  Komut satırı arayüzünü açma
